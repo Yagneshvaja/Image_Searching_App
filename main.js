@@ -1,4 +1,4 @@
-const accessKey = "PXT63_2KaRQBvUfSX-OFPt1B4SgULM-bvtR8K3uoofQ";
+const accessKey = "Create Your Own AccessKey From unsplash.com";
 
 const formEl = document.querySelector("form");
 const searchInputEl = document.getElementById("search-input");
